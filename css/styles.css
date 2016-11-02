@@ -1,0 +1,48 @@
+html, body, ul, h1, h2, p, div {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #F2F0D5;
+  color: black; }
+
+h2 {
+  color: black;
+  font-size: 1.4em;
+  font-weight: 600; }
+
+input {
+  margin-top: 8px; }
+
+hr {
+  margin: 0;
+  padding: 0; }
+
+.carCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  word-wrap: break-word;
+  padding: 10px;
+  margin: 0 2.5%;
+  height: 250px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  border-radius: 5px; }
+
+.row {
+  margin: 20px 0;
+  padding: 0; }
+
+#divMain {
+  padding: 0;
+  margin: 0 5%; }
+
+#logo {
+  color: black;
+  font-weight: 700;
+  text-shadow: -1px 1px #B1B1AC; }
+
+#nav {
+  background-color: #FFD841;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+/*# sourceMappingURL=styles.css.map */

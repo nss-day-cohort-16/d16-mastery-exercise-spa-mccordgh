@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "year": "1999",
+      "price": "4999",
+      "description": "THIS CAR IS FLIPPIN AMAZING."
+    },
+    {
+      "make": "Toyota",
+      "model": "MR2 Spyder",
+      "year": "2003",
+      "price": "6999",
+      "description": "She looks like a frog, but handles like a dream."
+    },
+    {
+      "make": "Ford",
+      "model": "Thunder Cougar Falconbird",
+      "year": "3003",
+      "price": "89999",
+      "description": "Its' masculinity removes all doubt of the owner's sexuality."
+    },
+    {
+      "make": "Tesla",
+      "model": "Mars Spaceship",
+      "year": "2021",
+      "price": "988999",
+      "description": "Be one of the few, the proud, space cadets to land on Mars, or something."
+    },
+    {
+      "make": "Namco",
+      "model": "Plastic Sled",
+      "year": "1996",
+      "price": "999",
+      "description": "This thing zips, zops, zoops, and boops downhill quicker than Bill Cosby's career!"
+    }
+  ]
+}
